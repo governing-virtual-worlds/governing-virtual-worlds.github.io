@@ -1,50 +1,50 @@
-# The Final
-
-We'll be using this page to organize the final project for [Governing Virtual Worlds](https://hls.harvard.edu/academics/curriculum/catalog/default.aspx?o=72386).
+We'll be using this page to organize the final projects for [Governing Virtual Worlds](https://hls.harvard.edu/academics/curriculum/catalog/default.aspx?o=72386).
 
 ## Roles
 
 Choose your role.
 
-1. Architects. You're an Architect if you choose to work on a project. Architects can choose to work on a team.
-2. Analysts. You're an Analyst if you choose to work on a paper. Analysts work alone.
+1. Architect. Work on a project. Architects can choose to work on a team.
+2. Analyst. Work on a paper. Analysts work alone.
 
-## Challenges
+Over the course of 5 weeks, Architects will develop a fresh new proposal in one of the project areas listed below, while facing criticism from Analysts (and other Architects).
+
+## Project Areas
 
 Facebook v2.
 
 OHOL v2. How would you re-design OHOL?
 
+Decentraland.
+
 Walden 2.
 
 A beautiful elsewhere. Walden 2 is B.F. Skinner's utopia, constructed from 
 
-Do something else.
+Do something else entirely.
 
-## Here's an example...
+## Example projects
 
 Seed is a...
 
-## Here's another...
+AI is a...
 
 # Schedule
 
-## Week 8
+## Tuesday, March 26
 
-Talk:
+Talk: Joshua Tan on AI as collective action
+Case study: Seed
 
-## Mini-hackathon
+## Tuesday, April 2
 
-Get together, come up with cool projects. Decide on a project, do 5 hours of work on it, get feedback, get a reward.
+Primera de Filippi on blockchain and governance
+Case study: Decentraland
 
-Every project team should build a repository that illustrates what they're doing. What's the pitch? Why is it cool?
+## Tuesday, April 9: 
 
-## Workshop
+Talk: Louis Kang on AI and (virtual) markets
+Case study: Walden 2
 
-Every project team will present.
-
-Every paper will give a talk.
-
-There will be comments.
-
-[Link](url) and ![Image](src)
+## Tuesday, April 16:
+TBD.
