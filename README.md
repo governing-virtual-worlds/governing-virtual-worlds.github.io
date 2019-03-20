@@ -13,6 +13,10 @@ Over the course of 5 weeks, Architects will develop governance proposals for a v
 
 One outstanding project and one outstanding analysis will be recognized at the end of the course. Prizes TBA.
 
+## Publication
+
+We will publish the final versions of every project (and relevant analyses, with your permission) on this site.
+
 ## Criteria
 
 **Creative**: how is the project different from previous alternatives? Be audacious; don't just build a better mousetrap.
