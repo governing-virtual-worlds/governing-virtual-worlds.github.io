@@ -17,7 +17,7 @@ One outstanding project and one outstanding analysis will be recognized at the e
 
 **Creative**: how is the project different from previous alternatives? Be audacious; don't just build a better mousetrap.
 
-**Impactful**: does the project solve a significant governance problem in the virtual world, whether for users or for the operator? Does it significantly improve "welfare" in the world in some sense?
+**Impactful**: does the project solve a significant governance problem in the virtual world, whether for users or for the operator? Does it significantly improve "welfare" in some sense?
 
 **Realistic**: is the project do-able, whether commercially, technologically, or politically? We know things can be complicated. But be honest about the obstacles, and tell us how you plan on overcoming them.
 
@@ -27,11 +27,11 @@ One outstanding project and one outstanding analysis will be recognized at the e
 
 Governance, writ large, is concerned with collective action. If you're looking for inspiration for a governance proposal, consider some of the following challenges for governance:
 
-After a slew of recent missteps, **Facebook** is facing a torrent of criticism from activists, media, and regulators. Among the many criticisms: it helps spread propaganda and disinformation, it collects (and shares) information on its users without proper vetting, it's a threat to democracy. Yet [nothing seems to change](https://www.nytimes.com/2019/03/19/opinion/facebook-antitrust-investigation.html?action=click&module=Opinion&pgtype=Homepage). Mark Zuckerburg wants to fix the platform by implementing more AI; Elizabeth Warren wants to [break it up](https://medium.com/@teamwarren/heres-how-we-can-break-up-big-tech-9ad9e0da324c) [proposals](https://www.nytimes.com/2019/03/19/opinion/facebook-antitrust-investigation.html?action=click&module=Opinion&pgtype=Homepage). If you were in Zuckerburg's shoes, how would you design Facebook v2?
+After recent missteps, **Facebook** is facing a torrent of criticism from activists, media, and regulators. Among the many criticisms: it helps spread propaganda and disinformation because bad actors can subvert its data and network, it fosters armchair activism because it replaces active engagement with "likes", it's a threat to democracy because it polarizes communities. Yet [nothing seems to change](https://www.nytimes.com/2019/03/19/opinion/facebook-antitrust-investigation.html?action=click&module=Opinion&pgtype=Homepage). Mark Zuckerburg wants to fix the platform by implementing more AI; Elizabeth Warren wants to [break it up](https://medium.com/@teamwarren/heres-how-we-can-break-up-big-tech-9ad9e0da324c) [proposals](https://www.nytimes.com/2019/03/19/opinion/facebook-antitrust-investigation.html?action=click&module=Opinion&pgtype=Homepage). How would you design Facebook v2?
 
 **One Hour One Life** is an indie game in which players work together to re-create civilization. Jason, the designer, has talked about several experiments on how to control (but not eliminate) the rate of murders in the game, and also explained what players did in the absence of his controls. Are there other options to control murder in OHOL, and to turn it into a more "productive" feature of the game?
 
-**Decentraland** bills itself as a truly user-owned virtual world. 
+**Decentraland** bills itself as a truly [user-owned virtual world](https://medium.com/decentraland/introducing-the-decentraland-whitepaper-c115a17c77a9). Built on the Ethereum blockchain, it uses a market system to facilitate the buying and selling of LAND: little patches of VR real estate, similar to web domains, on which users can place and monetize "games" of their own. The vision is big, and the mock-ups look shiny, but the [implementation may be spotty](https://medium.com/@mattcondon/thoughts-on-decentraland-6a6ddbf9cd4a)... and didn't Second Life already pioneer the sale-and-monetization of virtual land? A lot depends on how governance and collective decision-making is implemented in the world, especially if there is no central authority that can intervene. How would you implement such a governance system?
 
 **Walden 2** is B.F. Skinner's utopia, constructed from .
 
