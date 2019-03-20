@@ -7,9 +7,9 @@ Choose your role.
 1. *Architect*. Work on a project. Architects can choose to work on a team.
 2. *Analyst*. Work on a paper. Analysts work alone.
 
-Over the course of 5 weeks, Architects will develop governance proposals for a virtual world of their choice, while facing criticism from Analysts (and other Architects).
+Over the course of 5 weeks, Architects will develop governance proposals for a virtual world of their choice, while facing criticism from Analysts (and other Architects). Look out for announcements and assignments on Canvas.
 
-## Prize
+## Prizes
 
 One outstanding project and one outstanding analysis will be recognized at the end of the course. Prizes TBA.
 
@@ -39,7 +39,7 @@ After recent missteps, **Facebook** is facing a torrent of criticism from activi
 
 [**Seed**](www.seed-project.io) is an upcoming sandbox MMO where players must band together in cities and settlements as they colonize a new world. Gameplay will be a cross between the Sims (players control several AI settlers at once) and EVE Online (the world is vast, and it's always changing even if the player logs off). To succeed, players in a settlement must work together, and they have a range of governance mechanisms to help: a choice of government form and constitution, tools to manage the economy, a rudimentary (player-run) justice system, and recorded contracts between players. But not all governance mechanisms need to be explicit or "legal"; some of them can be quite subtle. [Here's a sample proposal that uses AI to simulate "culture" in Seed](https://docs.google.com/document/d/10GQFbj8mPPwey8RQZxavkvQ0q6px0gAjNe2JFeWNCHg).
 
-# Key dates
+## Key dates
 
 1. Tuesday, March 26: Joshua Tan on AI as collective action
 2. Tuesday, April 2: Primavera de Filippi on blockchain and governance
