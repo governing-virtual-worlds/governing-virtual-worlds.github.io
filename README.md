@@ -27,17 +27,18 @@ One outstanding project and one outstanding analysis will be recognized at the e
 
 Governance, writ large, is concerned with collective action. If you're looking for inspiration for a governance proposal, consider some of the following challenges for governance:
 
-**Facebook** is facing a torrent of criticism these days, from ongoing suspicions about its role in undermining democratic elections to its use as a platform for terrorist propaganda to [recent](https://medium.com/@teamwarren/heres-how-we-can-break-up-big-tech-9ad9e0da324c) [proposals](https://www.nytimes.com/2019/03/19/opinion/facebook-antitrust-investigation.html?action=click&module=Opinion&pgtype=Homepage) to break it up. For Mark Zuckerburg, AI is the answer. What's your answer?
+After a slew of recent missteps, **Facebook** is facing a torrent of criticism from activists, media, and regulators. Among the many criticisms: it helps spread propaganda and disinformation, it collects (and shares) information on its users without proper vetting, it's a threat to democracy. Yet [nothing seems to change](https://www.nytimes.com/2019/03/19/opinion/facebook-antitrust-investigation.html?action=click&module=Opinion&pgtype=Homepage). Mark Zuckerburg wants to fix the platform by implementing more AI; Elizabeth Warren wants to [break it up](https://medium.com/@teamwarren/heres-how-we-can-break-up-big-tech-9ad9e0da324c) [proposals](https://www.nytimes.com/2019/03/19/opinion/facebook-antitrust-investigation.html?action=click&module=Opinion&pgtype=Homepage). If you were in Zuckerburg's shoes, how would you design Facebook v2?
 
-**One Hour One Life** is an indie game in which players work together to re-create civilization. Jason, the designer, has detailed several experiments on how to control (but not eliminate) the rate of murders in the game, and also explained what players did in the absence of specific controls. Are there other options to control murder in OHOL?
+**One Hour One Life** is an indie game in which players work together to re-create civilization. Jason, the designer, has talked about several experiments on how to control (but not eliminate) the rate of murders in the game, and also explained what players did in the absence of his controls. Are there other options to control murder in OHOL, and to turn it into a more "productive" feature of the game?
 
 **Decentraland** bills itself as a truly user-owned virtual world. 
 
-**Walden 2**. Walden 2 is B.F. Skinner's utopia, constructed from .
+**Walden 2** is B.F. Skinner's utopia, constructed from .
 
-## Sample proposal
+## A sample proposal
 
-[**Seed**](www.seed-project.io) is an upcoming sandbox MMO where players must band together—and govern together—in order to settle a new world. Here's an sample proposal that uses AI to simulate "culture".
+[**Seed**](www.seed-project.io) is an upcoming sandbox MMO where players must band together in cities and settlements as they colonize a new world. Each settlement will have its own form of government and its own market. Here's a sample proposal
+Each player manages a number of different intelligent characters (like the Sims). Here's an sample proposal that uses AI to simulate "culture".
 
 # Key dates
 
