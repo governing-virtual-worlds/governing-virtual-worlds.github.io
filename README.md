@@ -7,38 +7,36 @@ Choose your role.
 1. Architect. Work on a project. Architects can choose to work on a team.
 2. Analyst. Work on a paper. Analysts work alone.
 
-Over the course of 5 weeks, Architects will develop a fresh new proposal in one of the project areas listed below, while facing criticism from Analysts (and other Architects).
+Over the course of 5 weeks, Architects will develop proposals in one of the virtual worlds listed below, while facing criticism from Analysts (and other Architects).
 
-## Project Areas
+## Worlds
 
-Facebook v2.
+**Facebook**: perhaps the marquee company of the 2000s, Facebook is now facing scrutiny from a range of activists and regulators. From recent proposals to break it up, 
 
-OHOL v2. How would you re-design OHOL?
+**One Hour One Life**: civilization is the collective project of One Hour One Life; . What changes we can make to OHOL that will facilitate the development of new civilizations. 
 
-Decentraland.
+**Decentraland** envisions itself as the world's first truly user-owned virtual world advertises itself as a virtual reality 
 
-Walden 2.
+**Walden 2**. Walden 2 is B.F. Skinner's utopia, constructed from .
 
-A beautiful elsewhere. Walden 2 is B.F. Skinner's utopia, constructed from 
+**A world of your own**.
 
-Do something else entirely.
+## Example
 
-## Example projects
-
-Seed is a...
-
-AI is a...
+Seed is an upcoming MMO that sets players in control of a "family" of settlers on a new, alien world. Here's an example of a proposal for the game.
 
 # Schedule
 
 ## Tuesday, March 26
 
 Talk: Joshua Tan on AI as collective action
+
 Case study: Seed
 
 ## Tuesday, April 2
 
 Primera de Filippi on blockchain and governance
+
 Case study: Decentraland
 
 ## Tuesday, April 9: 
