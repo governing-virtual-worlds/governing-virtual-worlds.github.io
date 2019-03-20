@@ -25,7 +25,7 @@ One outstanding project and one outstanding analysis will be recognized at the e
 
 ## Challenges
 
-Governance, writ large, is concerned with collective action. If you're looking for inspiration for a governance proposal, consider some of the following challenges for governance:
+Governance, writ large, is concerned with collective action. If you're looking for inspiration for a governance proposal, consider some of the following examples of governance challenges:
 
 After recent missteps, **Facebook** is facing a torrent of criticism from activists, media, and regulators. Among the many criticisms: it helps spread propaganda and disinformation because bad actors can subvert its data and network, it fosters armchair activism because it replaces active engagement with "likes", it's a threat to democracy because it polarizes communities. Yet [nothing seems to change](https://www.nytimes.com/2019/03/19/opinion/facebook-antitrust-investigation.html?action=click&module=Opinion&pgtype=Homepage). Mark Zuckerburg wants to fix the platform by implementing more AI; Elizabeth Warren wants to [break it up](https://medium.com/@teamwarren/heres-how-we-can-break-up-big-tech-9ad9e0da324c). How would you design Facebook v2?
 
