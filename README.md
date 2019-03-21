@@ -19,9 +19,7 @@ We will publish the final versions of every project (and relevant analyses, with
 
 ## Criteria
 
-**Creative**: how is the project different from previous alternatives? Be audacious; don't just build a better mousetrap.
-
-<img src="/329E1BC6-9536-4FBD-886E-7262D8A73532.jpeg" style="float: right; width: 50%; height: 50%">
+**Creative**: how is the project different from previous alternatives? Be audacious; don't just build a better mousetrap. <img src="/329E1BC6-9536-4FBD-886E-7262D8A73532.jpeg" style="float: right; width: 50%; height: 50%">
 
 **Impactful**: does the project solve a significant governance problem in the virtual world, whether for users or for the operator? Does it significantly improve "welfare" in some sense?
 
