@@ -9,6 +9,8 @@ Choose your role.
 
 Over the course of 5 weeks, Architects will develop governance proposals for a virtual world of their choice, while facing criticism from Analysts (and other Architects). Look out for announcements and assignments on Canvas.
 
+Yes, you can do both a project and a paper.
+
 ## Prizes
 
 One outstanding project and one outstanding analysis will be recognized at the end of the course. Prizes TBA.
@@ -48,6 +50,7 @@ After recent missteps, **Facebook** is facing a torrent of criticism from activi
 ## Key dates
 
 1. Tuesday, March 26: Joshua Tan on AI as collective action
+2. Saturday, March 30: let the TFs if you plan on working on a project, and what project/team you are working on
 2. Tuesday, April 2: Primavera de Filippi on blockchain and governance
 3. Tuesday, April 9: Louis Kang on AI and (virtual) markets
 4. Tuesday, April 16: Elettra Bietti on platform governance
