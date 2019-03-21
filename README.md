@@ -1,5 +1,11 @@
 We'll be using this page to organize the final projects for [Governing Virtual Worlds](https://hls.harvard.edu/academics/curriculum/catalog/default.aspx?o=72386).
 
+!(https://github.com/governing-virtual-worlds/governing-virtual-worlds.github.io/blob/master/329E1BC6-9536-4FBD-886E-7262D8A73532.jpeg)
+
+!(https://github.com/governing-virtual-worlds/governing-virtual-worlds.github.io/blob/master/3BDA99C5-9050-4DDC-9CAD-87C8EF78AD37.jpeg)
+
+!(https://github.com/governing-virtual-worlds/governing-virtual-worlds.github.io/blob/master/3CE1496E-8663-4486-8558-9E4471CF3672.jpeg)
+
 ## Roles
 
 Choose your role.
