@@ -31,7 +31,7 @@ We will publish the final versions of every project (and relevant analyses, with
 
 Governance, writ large, is concerned with collective action. If you're looking for inspiration for a governance proposal, consider some of the following examples of governance challenges:
 
-After recent missteps, **Facebook** is facing a torrent of criticism from activists, media, and regulators. Among the many criticisms: it helps spread propaganda and disinformation because bad actors can subvert its data and network, it fosters armchair activism because it replaces active engagement with "likes", it's a threat to democracy because it polarizes communities. Yet [nothing seems to change](https://www.nytimes.com/2019/03/19/opinion/facebook-antitrust-investigation.html?action=click&module=Opinion&pgtype=Homepage). Mark Zuckerburg wants to fix the platform by implementing more AI; Elizabeth Warren wants to [break it up](https://medium.com/@teamwarren/heres-how-we-can-break-up-big-tech-9ad9e0da324c). How would you design Facebook v2?
+After recent missteps, **Facebook** is facing a torrent of criticism from activists, media, and regulators. Among the many criticisms: it helps spread propaganda and disinformation by letting bad actors subvert its infrastructure, it's a threat to democracy because it polarizes communities, it holds too much power over personal data, it fosters armchair activism because it replaces active engagement with "likes". Yet [nothing seems to change](https://www.nytimes.com/2019/03/19/opinion/facebook-antitrust-investigation.html?action=click&module=Opinion&pgtype=Homepage). Mark Zuckerburg wants to fix the platform by introducing more AI; Elizabeth Warren wants to [break it up](https://medium.com/@teamwarren/heres-how-we-can-break-up-big-tech-9ad9e0da324c). How would you design Facebook v2?
 
 **One Hour One Life** is an indie game in which players work together to re-create civilization. Jason, the designer, has talked about several experiments on how to control (but not eliminate) the rate of murders in the game, and also explained what players did in the absence of his controls. Are there other options to control murder in OHOL, and to turn it into a more "productive" feature of the game?
 
@@ -50,4 +50,4 @@ After recent missteps, **Facebook** is facing a torrent of criticism from activi
 1. Tuesday, March 26: Joshua Tan on AI as collective action
 2. Tuesday, April 2: Primavera de Filippi on blockchain and governance
 3. Tuesday, April 9: Louis Kang on AI and (virtual) markets
-4. More TBA.
+4. Tuesday, April 16: Elettra Bietti on platform governance
