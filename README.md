@@ -1,7 +1,5 @@
 We'll be using this page to organize the final projects for [Governing Virtual Worlds](https://hls.harvard.edu/academics/curriculum/catalog/default.aspx?o=72386).
 
-![](/329E1BC6-9536-4FBD-886E-7262D8A73532.jpeg)
-
 ## Roles
 
 Choose your role.
@@ -19,11 +17,11 @@ One outstanding project and one outstanding analysis will be recognized at the e
 
 We will publish the final versions of every project (and relevant analyses, with your permission) on this site.
 
-![](/3BDA99C5-9050-4DDC-9CAD-87C8EF78AD37.jpeg)
-
 ## Criteria
 
 **Creative**: how is the project different from previous alternatives? Be audacious; don't just build a better mousetrap.
+
+<img src="/329E1BC6-9536-4FBD-886E-7262D8A73532.jpeg" style="float: right">
 
 **Impactful**: does the project solve a significant governance problem in the virtual world, whether for users or for the operator? Does it significantly improve "welfare" in some sense?
 
