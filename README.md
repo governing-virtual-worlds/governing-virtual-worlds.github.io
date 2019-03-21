@@ -1,10 +1,6 @@
 We'll be using this page to organize the final projects for [Governing Virtual Worlds](https://hls.harvard.edu/academics/curriculum/catalog/default.aspx?o=72386).
 
-!(https://github.com/governing-virtual-worlds/governing-virtual-worlds.github.io/blob/master/329E1BC6-9536-4FBD-886E-7262D8A73532.jpeg)
-
-!(https://github.com/governing-virtual-worlds/governing-virtual-worlds.github.io/blob/master/3BDA99C5-9050-4DDC-9CAD-87C8EF78AD37.jpeg)
-
-!(https://github.com/governing-virtual-worlds/governing-virtual-worlds.github.io/blob/master/3CE1496E-8663-4486-8558-9E4471CF3672.jpeg)
+![](/329E1BC6-9536-4FBD-886E-7262D8A73532.jpeg)
 
 ## Roles
 
@@ -22,6 +18,8 @@ One outstanding project and one outstanding analysis will be recognized at the e
 ## Publication
 
 We will publish the final versions of every project (and relevant analyses, with your permission) on this site.
+
+![](/3BDA99C5-9050-4DDC-9CAD-87C8EF78AD37.jpeg)
 
 ## Criteria
 
@@ -42,6 +40,8 @@ After recent missteps, **Facebook** is facing a torrent of criticism from activi
 **One Hour One Life** is an indie game in which players work together to re-create civilization. Jason, the designer, has talked about several experiments on how to control (but not eliminate) the rate of murders in the game, and also explained what players did in the absence of his controls. Are there other options to control murder in OHOL, and to turn it into a more "productive" feature of the game?
 
 **Decentraland** bills itself as a truly [user-owned virtual world](https://medium.com/decentraland/introducing-the-decentraland-whitepaper-c115a17c77a9). Built on the Ethereum blockchain, it uses a market system to facilitate the buying and selling of LAND: little patches of VR real estate, similar to web domains, on which users can place and monetize "games" of their own. The vision is big, and the mock-ups look shiny, but the [implementation may be spotty](https://medium.com/@mattcondon/thoughts-on-decentraland-6a6ddbf9cd4a) and [questions remain](https://farsightpodcast.com/2019/03/06/opportunity-and-exit-what-decentraland-can-learn-from-second-life/)... and didn't Second Life already pioneer the sale-and-monetization of virtual land? A lot depends on how governance and collective decision-making is implemented in the world, especially if there is no central authority that can intervene. How would you implement such a governance system in Decentraland?
+
+![](/3CE1496E-8663-4486-8558-9E4471CF3672.jpeg)
 
 **Walden 2** is B.F. Skinner's utopia, a small-scale model of human perfectibility enabled by behavioral psychology. In the novel, Frazier, the architect of Walden 2, articulates a vision of the good life that goes "[beyond freedom and dignity](https://en.m.wikipedia.org/wiki/Beyond_Freedom_and_Dignity)". Frazier's philosophical opponent, Castle, calls him a fascist. Whatever you might think of Walden 2, our worlds (virtual and not) are governed more and more by a kind of technological behaviorism. How would you update Walden 2 for today's world, using today's technologies, reflecting today's norms? Show us a vision of Walden 3.
 
